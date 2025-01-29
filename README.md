@@ -1,6 +1,6 @@
 <h1 align="center"> About Me </h1>
 <p align="center">
-I'm a student at 1337 coding school in UM6P RABAT.
+relentlessly optimizing every aspect of life—mind, body, and code.
 </p>
 <p align="center">
   <a href="https://badge.mediaplus.ma/colorfulwaves/hbousset">
