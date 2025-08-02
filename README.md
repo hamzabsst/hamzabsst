@@ -12,9 +12,6 @@ relentlessly optimizing every aspect of life—mind, body and code.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabsst&theme=monokai&bg_color=,080808,303030&langs_count=3" >
 </div>
 <br>
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzabsst&langs_count=3&layout=compact&show_icons=true&theme=dark"><br/>
-</div>
 
 <h1 align="center"> Profiles </h1>
 
