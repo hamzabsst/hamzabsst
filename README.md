@@ -7,7 +7,6 @@ relentlessly optimizing every aspect of life—mind, body and code.
 
 <br>
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamzabsst&langs_count=3&layout=compact&show_icons=true&theme=monokai&count_private=true&include_all_commits=true&bg_color=,303030,080808" > 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabsst&theme=monokai&bg_color=,080808,303030&langs_count=3" >
 </div>
 <br>
