@@ -1,4 +1,4 @@
-<h1 align="center">Hamza Bousset</h1>
+<h1 align="center">Hamza Boussetta</h1>
 
 <p align="center">
   Computer Science Student · 42 / 1337 · C & C++ Developer
@@ -44,17 +44,4 @@
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/black/hbousset" alt="hbousset's 42 stats" />
   </a>
-</p>
-
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzabsst&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabsst&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-<p align="center">
-  <i>Relentlessly optimizing mind, body, and code.</i>
 </p>
