@@ -25,18 +25,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,docker,git,github,vscode" />
 </p>
 
-### Selected Projects
-
-| Project | Focus |
-|---|---|
-| **Minishell** | Unix processes, pipes, signals, parsing and file descriptors |
-| **cub3D** | Raycasting, graphics and game-loop fundamentals |
-| **Philosophers** | Threads, mutexes and concurrency |
-| **Pipex** | Processes, pipes and Unix IPC |
-| **Push Swap** | Algorithms and optimization |
-| **Inception** | Docker, containers and service orchestration |
-| **ft_irc** | Networking, sockets and IRC protocol implementation |
-| **C++ Modules** | OOP, templates, STL and modern C++ fundamentals |
 
 ### 42 Progress
 
