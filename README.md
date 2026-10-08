@@ -20,7 +20,7 @@
 
 ### About me
 
-I'm a software engineering student at **1337 Coding School (UM6P), part of the 42 Network**, with a background in Mathematics and Computer Science at ENS Tetouan.
+I'm a software engineering student at **1337 Coding School (UM6P), part of the 42 Network**, with a background in Mathematics and Computer Science.
 
 My foundation is **C, C++, and Linux**: working with processes, memory, threads, and sockets. More recently, I've been building browser tools and real-time applications with **JavaScript, React, and Node.js**.
 
