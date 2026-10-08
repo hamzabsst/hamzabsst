@@ -28,13 +28,9 @@ I like understanding how things work, building something useful, and testing the
 
 ### Skills I use
 
-| Area | Technologies and practical experience |
-| --- | --- |
-| Languages | C, C++, JavaScript, Python scripting |
-| Systems | Unix/Linux, Bash, processes, pipes, redirections, signals, memory management |
-| Concurrency & networking | POSIX threads, mutexes, TCP sockets, nonblocking I/O, IRC |
-| Web | HTML, CSS, React, Vite, Tailwind CSS, Node.js, Express, Socket.IO, WebRTC |
-| Infrastructure & tools | Git, GitHub, Make, Docker, Docker Compose, NGINX, Valgrind, Vercel, Render |
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,py,html,css,react,nodejs,express,vite,tailwind,linux,bash,docker,nginx,git,github,vercel&perline=9" alt="C, C++, JavaScript, Python, HTML, CSS, React, Node.js, Express, Vite, Tailwind CSS, Linux, Bash, Docker, NGINX, Git, GitHub, and Vercel" />
+</p>
 
 ### Selected projects
 
