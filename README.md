@@ -33,7 +33,6 @@ I like understanding how things work, building something useful, and testing the
 </p>
 
 
-<details>
 <summary>42 curriculum progress</summary>
 
 <p align="center">
@@ -42,4 +41,3 @@ I like understanding how things work, building something useful, and testing the
   </a>
 </p>
 
-</details>
