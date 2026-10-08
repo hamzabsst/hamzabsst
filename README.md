@@ -33,7 +33,7 @@ I like understanding how things work, building something useful, and testing the
 </p>
 
 
-<summary>42 curriculum progress</summary>
+### 42 curriculum progress
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
