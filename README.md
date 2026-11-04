@@ -1,7 +1,7 @@
 <h1 align="center">Hamza Boussetta</h1>
 
 <p align="center">
-  Software Engineering Student · 1337 / 42 Network · UM6P
+  Software Engineering Student · 1337 · 42 Network · UM6P
 </p>
 
 <p align="center">
