@@ -1,7 +1,7 @@
 <h1 align="center">Hamza Boussetta</h1>
 
 <p align="center">
-  Software Engineering Student · 1337 · 42 Network · UM6P
+<a href="https://www.elite-1337.app"><img src="https://www.elite-1337.app/api/card/200079.svg?t=n7nGCo5oZenHmzsy3p7rJof5ZFSU2wo1Ao9UKVNcA5g&theme=midnight&font=courier" alt="Elite 1337 rank" width="840"></a>
 </p>
 
 <p align="center">
