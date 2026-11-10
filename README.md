@@ -1,12 +1,9 @@
 <h1 align="center">Hamza Boussetta</h1>
 
 <p align="center">
-<a href="https://www.elite-1337.app"><img src="https://www.elite-1337.app/api/card/200079.svg?t=n7nGCo5oZenHmzsy3p7rJof5ZFSU2wo1Ao9UKVNcA5g&theme=midnight&font=courier" alt="Elite 1337 rank" width="840"></a>
+<a href="https://www.elite-1337.app"><img src="https://www.elite-1337.app/api/card/200079.svg?t=n7nGCo5oZenHmzsy3p7rJof5ZFSU2wo1Ao9UKVNcA5g&theme=midnight&font=courier" width="840"></a>
 </p>
 
-<p align="center">
-  Building Unix systems, developer tools, and real-time web apps.
-</p>
 
 <p align="center">
   <a href="https://hamzabsst.me/"><strong>Portfolio ↗</strong></a>
