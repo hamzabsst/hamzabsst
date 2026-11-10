@@ -28,13 +28,3 @@ I like understanding how things work, building something useful, and testing the
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,py,html,css,react,nodejs,express,vite,tailwind,linux,bash,docker,nginx,git,github,vercel&perline=9" alt="C, C++, JavaScript, Python, HTML, CSS, React, Node.js, Express, Vite, Tailwind CSS, Linux, Bash, Docker, NGINX, Git, GitHub, and Vercel" />
 </p>
-
-
-### 42 curriculum progress
-
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/hbousset" alt="hbousset's 42 curriculum stats" />
-  </a>
-</p>
-
